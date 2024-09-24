@@ -1,4 +1,8 @@
-## Hi there 👋
+- Hi, my name is Lisa! I am originally from the Netherlands but currently living in Tokyo, Japan.
+- I am a Fullstack Engineer with a background in translation and LQA (Language Quality Assurance).
+- For tech, I am interested in Fullstack Development. Personally, I love talking about and consuming coffee, or reading a book in my free time.
+- Currently, I am in the process of continuously improving my JavaScript/TypeScript skills, including frameworks like React, React Native and Next.js. However, I also have a genuine interest in Java, and want to dedicate a part of my free time improving my understanding of the language.
+- Please do not hesitate to reach out to me through lj.broersen@gmail.com or [LinkedIn](https://www.linkedin.com/in/lisa-broersen/).
 
 <!--
 **ljbroersen/ljbroersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
