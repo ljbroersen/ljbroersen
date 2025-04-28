@@ -41,7 +41,7 @@ Let's connect!
     </td>
     <td align="center">
       <a href="https://github.com/builders-weekend-tradex/tradex-frontend">
-        <img src="" width="100px;" alt="TradEx Logo"/><br />
+        <img src="https://github.com/builders-weekend-tradex/tradex-frontend/blob/main/src/assets/tradex-logo.png" width="100px;" alt="TradEx Logo"/><br />
         <sub><b>TradEx</b></sub>
       </a>
       <br />
