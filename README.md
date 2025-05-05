@@ -7,8 +7,7 @@ Let's connect!
 
 ## 🚀 About Me
 - 🌱 Currently learning **Python**, **Java** and **Docker**
-- 🔭 Working on a **Tattoo-friendly Onsen Guide**
-- 🎯 2025 Goals: 
+- 🔭 Working on a **Tattoo-friendly Onsen Guide called "yuya"**
 
 ---
 
@@ -25,8 +24,8 @@ Let's connect!
 ---
 
 ## 📂 Featured Projects
-- [📗 Timer Diary](https://github.com/ljbroersen/timer-diary) — A timer with a diary-like feature of logging your every day achievements. Build with React, TypeScript and TailwindCSS.
-- [🌐 Personal Portfolio](https://github.com/ljbroersen/portfolio) — Built with Vue.js, TypeScript and TailwindCSS
+- [📗 Timer Diary](https://github.com/ljbroersen/timer-diary) — A timer with a diary-like feature of logging your every day achievements. Build with React, TypeScript and Tailwind CSS.
+- [🌐 Personal Portfolio](https://github.com/ljbroersen/portfolio) — Built with Vue.js, TypeScript and Tailwind CSS
 
 
 <table>
@@ -54,7 +53,7 @@ Let's connect!
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/lisa-broersen)
-- [Portfolio Website](https://yourwebsite.com)
+- [Portfolio Website](https://www.ljbroersen.com)
 - [Email](mailto:lj.broersen@gmail.com)
 
 ---
