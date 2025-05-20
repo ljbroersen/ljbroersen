@@ -6,8 +6,8 @@ Let's connect!
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Python**, **Java** and **Docker**
-- 🔭 Working on a **Tattoo-friendly Onsen Guide called "yuya"**
+- 🌱 Currently learning **Python** and **Docker**
+- 🔭 Working on **[Find a Doc](https://github.com/ourjapanlife/findadoc-web)** and a refactor of the **Timer Diary**
 
 ---
 
