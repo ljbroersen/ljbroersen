@@ -37,7 +37,8 @@ I'm a full-stack developer originally from the Netherlands but currently living 
         <b>Vitae Aggregate</b>
       </a>
       <br />
-      <small>A web-based resume management system built using Svelte, TypeScript, and Tailwind CSS. This application allows users to create, view, modify, and download resumes in ATS-compliant PDF format.</small>
+      <small>A web-based resume management system built using Svelte, TypeScript, and Tailwind CSS. This application allows users to create, view, modify, and download resumes in ATS-compliant PDF format.<br />
+      <a href="https://www.ljbroersen.com/assets/VA_mobile_demo-BkQkeV-Q.mp4">Demo Video</a></small>
     </td>
     <td align="center">
       <a href="https://github.com/builders-weekend-tradex/tradex-frontend">
