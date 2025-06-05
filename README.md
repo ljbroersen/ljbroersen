@@ -25,8 +25,8 @@ I'm a full-stack developer originally from the Netherlands but currently living 
 
 | Project | Tech Stack | Description | Status |
 |-------|---------|---------------|-----------|
-| [Find a Doc](https://github.com/ljbroersen/find-a-doc) | Vue.js, TS | Helps users find doctors in Japan by language and specialty | 🛠 Active |
-| [Timer Diary](https://github.com/ljbroersen/timer-diary) | React, TS, Node.js, PostgreSQL | Time tracking with journaling features | 🛠 Refactoring |
+| [Find a Doc](https://github.com/ljbroersen/find-a-doc) | Vue.js, TS | Helps foreigners find doctors in Japan | 🛠 Active |
+| [Timer Diary](https://github.com/ljbroersen/timer-diary) | React, TS, Node.js, Postgres | Time tracking with journaling features | 🛠 Refactoring |
 | [Personal Portfolio](https://github.com/ljbroersen/personal-portfolio) | Vue.js, TS | My personal portfolio | ✅ Complete |
 
 <table>
