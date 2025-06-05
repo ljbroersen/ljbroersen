@@ -3,11 +3,10 @@
 I'm a full-stack developer originally from the Netherlands but currently living in Yokohama. Focused on building scalable and user-centric web applications, I want my contributions to make a difference and help others.
 Let's connect!
 
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Python** and **Docker**
-- 🔭 Working on **[Find a Doc](https://github.com/ourjapanlife/findadoc-web)** and a refactor of the **Timer Diary**
+### 📚 Currently Exploring
+- 🌐 Python, Docker
+- 🧪 Testing with Jest (current focus on Snapshot testing)
+- 🐳 How to host a containerized app on a Raspberry PI
 
 ---
 
@@ -23,10 +22,13 @@ Let's connect!
 
 ---
 
-## 📂 Featured Projects
-- [📗 Timer Diary](https://github.com/ljbroersen/timer-diary) — A timer with a diary-like feature of logging your every day achievements. Build with React, TypeScript, Tailwind CSS, Node.js, Express and PostgreSQL.
-- [🌐 Personal Portfolio](https://github.com/ljbroersen/portfolio) — Built with Vue.js, TypeScript and Tailwind CSS
+## 🧩 Featured Projects
 
+| Project | Tech Stack | Description | Status |
+|--------|-------------|-------------|--------|
+| [Find a Doc](https://github.com/ljbroersen/find-a-doc) | Vue.js, TS | Helps users find doctors in Japan by language and specialty | 🛠 Active |
+| [Timer Diary](https://github.com/ljbroersen/timer-diary) | React, TS, Node.js, PostgreSQL | Time tracking with journaling features | 🛠 Refactoring |
+| [Personal Portfolio](https://github.com/ljbroersen/personal-portfolio) | Vue.js, TS | My personal portfolio | ✅ Complete |
 
 <table>
   <tr>
