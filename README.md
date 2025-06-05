@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lisa
 
 I'm a full-stack developer originally from the Netherlands but currently living in Yokohama. Focused on building scalable and user-centric web applications, I want my contributions to make a difference and help others.
-Let's connect!
 
 ### 📚 Currently Exploring
 - 🌐 Python, Docker
@@ -35,7 +34,7 @@ Let's connect!
     <td align="center">
       <a href="https://github.com/vitaeaggregate/main">
         <img src="https://github.com/vitaeaggregate/main/blob/dev/frontend/src/lib/Logo.png" width="100px;" alt="Vitae Aggregate Logo"/><br />
-        <sub><b>Vitae Aggregate</b></sub>
+        <b>Vitae Aggregate</b>
       </a>
       <br />
       <small>A web-based resume management system built using Svelte, TypeScript, and Tailwind CSS. This application allows users to create, view, modify, and download resumes in ATS-compliant PDF format.</small>
@@ -43,7 +42,7 @@ Let's connect!
     <td align="center">
       <a href="https://github.com/builders-weekend-tradex/tradex-frontend">
         <img src="https://github.com/builders-weekend-tradex/tradex-frontend/blob/main/src/assets/tradex-logo.png" width="100px;" alt="TradEx Logo"/><br />
-        <sub><b>TradEx</b></sub>
+        <b>TradEx</b>
       </a>
       <br />
       <small>TradEx is an application that provides users with real-time financial news and AI-powered insights. The platform integrates with external APIs to deliver the latest market updates and allows users to interact with an AI chatbot for personalized financial discussions.</small>
