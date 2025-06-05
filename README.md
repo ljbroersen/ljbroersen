@@ -24,7 +24,7 @@ Let's connect!
 ---
 
 ## 📂 Featured Projects
-- [📗 Timer Diary](https://github.com/ljbroersen/timer-diary) — A timer with a diary-like feature of logging your every day achievements. Build with React, TypeScript and Tailwind CSS.
+- [📗 Timer Diary](https://github.com/ljbroersen/timer-diary) — A timer with a diary-like feature of logging your every day achievements. Build with React, TypeScript, Tailwind CSS, Node.js, Express and PostgreSQL.
 - [🌐 Personal Portfolio](https://github.com/ljbroersen/portfolio) — Built with Vue.js, TypeScript and Tailwind CSS
 
 
