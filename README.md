@@ -39,6 +39,9 @@ I'm a full-stack developer originally from the Netherlands but currently living 
       <br />
       <small>A web-based resume management system built using Svelte, TypeScript, and Tailwind CSS. This application allows users to create, view, modify, and download resumes in ATS-compliant PDF format.<br />
       <a href="https://www.ljbroersen.com/assets/VA_mobile_demo-BkQkeV-Q.mp4">Demo Video</a></small>
+      <br />
+       <br />
+      <p>Status: ✅ Complete</p>
     </td>
     <td align="center">
       <a href="https://github.com/builders-weekend-tradex/tradex-frontend">
@@ -47,6 +50,9 @@ I'm a full-stack developer originally from the Netherlands but currently living 
       </a>
       <br />
       <small>TradEx is an application that provides users with real-time financial news and AI-powered insights. The platform integrates with external APIs to deliver the latest market updates and allows users to interact with an AI chatbot for personalized financial discussions.</small>
+      <br />
+       <br />
+      <p>Status: 🛠 Active</p>
     </td>
   </tr>
 </table>
