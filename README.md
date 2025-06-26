@@ -44,7 +44,7 @@ I'm a full-stack developer originally from the Netherlands but currently living 
       <p>Status: ✅ Complete</p>
     </td>
     <td align="center">
-      <a href="https://github.com/builders-weekend-tradex/tradex-frontend">
+      <a href="https://github.com/orgs/builders-weekend-tradex/repositories">
         <img src="https://github.com/builders-weekend-tradex/tradex-frontend/blob/main/src/assets/tradex-logo.png" width="100px;" alt="TradEx Logo"/><br />
         <b>TradEx</b>
       </a>
