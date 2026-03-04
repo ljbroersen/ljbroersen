@@ -2,11 +2,6 @@
 
 I'm a full-stack developer originally from the Netherlands but currently living in Yokohama. Focused on building scalable and user-centric web applications, I want my contributions to make a difference and help others.
 
-### 📚 Currently Exploring
-- 🌐 Python, Docker
-- 🧪 Testing with Jest (current focus on Snapshot testing)
-- 🐳 How to host a containerized app on a Raspberry PI
-
 ---
 
 ## 🛠️ Tech Stack
